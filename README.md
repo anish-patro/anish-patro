@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on react, MUI etc.<br>🌱 I’m currently learning Node, Express, DSA etc<br>💬 Ask me about react, MYSQL etc.<br>
+🔭 I’m currently working on react, MUI <br>🌱 I’m currently learning Node, Express, DSA etc<br>💬 Ask me about react, MYSQL <br>
 
 
 ## 🌐 Socials:
