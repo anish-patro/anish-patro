@@ -2,9 +2,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anish-patro&label=Profile%20views&color=0e75b6&style=flat" alt="anish-patro" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anish-patro" alt="anish-patro" /></a> </p>
-- 🔭 I’m currently working on **next.js, Express, MongoDB**
-- 🌱 I’m currently learning **DSA**
-- 💬 Ask me about **MERN, MYSQL, Data Structure and algorithms.**
+- 🔭 I’m currently working on <b>next.js, Express, MongoDB</b> <br>
+- 🌱 I’m currently learning <b>DSA</b> <br>
+- 💬 Ask me about <b>MERN, MYSQL, Data Structure and algorithms</b> <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
