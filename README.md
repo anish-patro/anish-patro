@@ -9,11 +9,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/patroanish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="patroanish" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/g.anish kumar patro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="g.anish kumar patro" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/g-anish-kumar-patro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="g.anish kumar patro" height="30" width="40" /></a>
 <a href="https://instagram.com/anish.patro03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anish.patro03" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/anish_coder03" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anish_coder03" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/anish_coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="anish_coder" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/anishkumarpatro03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anishkumarpatro03" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/anish_patro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anish_patro" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/anish_coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="anish_coder" height="30" width="40" /></a>
 </p>
 
